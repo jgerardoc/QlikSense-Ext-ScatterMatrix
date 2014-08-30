@@ -4,8 +4,8 @@ QlikSense-Ext-ScatterMatrix
 Scatter Matrix Chart extension for QlikSense
 
 
-This extension is built with D3, using jasondavies’s blocks' Parallel Coordinates chart found here:
-(http://bl.ocks.org/jasondavies/1341281)
+This extension is built with D3, using mbostock’s Scatterplot Matrix Brushing chart found here:
+(http://bl.ocks.org/mbostock/4063663)
 
 
 
